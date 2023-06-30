@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'dinbridge'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_473782CE88884AC49FF7F5E61A4B8104 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1CAF62BAB12641B2A181FE58B3BC214E }}
